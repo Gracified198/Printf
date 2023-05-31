@@ -1,0 +1,10 @@
+.\" Manpage for _printf
+.TH man 3 "16 April 2022" "0x01" "_printf man page"
+.SH NAME
+_printf - format and write a string, character or integer to stdout
+.SH SYNOPSIS
+#include "main.h"
+.br
+#include <stdarg.h>
+.br
+#include <stdlib.h>
